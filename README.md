@@ -12,5 +12,5 @@
 - 주요기능
  -> 터틀스토어 메인페이지, 제품 상세페이지, 상품주문 및 결제
  (사용 API : 카카오맵API, 결제API)
-
+![turtle store 메인페이지](https://user-images.githubusercontent.com/96275073/159109633-5d6504ee-89d7-4fe3-aa28-3314e01472f8.png)
 
