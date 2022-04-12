@@ -24,3 +24,6 @@
  
 ![turtle store 메인페이지](https://user-images.githubusercontent.com/96275073/159109633-5d6504ee-89d7-4fe3-aa28-3314e01472f8.png)
 
+
+### 수업을 들으며 정리한 부분 (oracle위주)
+#### https://www.notion.so/Oracle-Database-6fc34739edc747e2b68c500480e12446
